@@ -23,7 +23,6 @@ void PrintPoint(Point p) {
 }
 
 
-// Nothing else to do
 int main() {
     Point a(3,9);
     Point b(4.5, 7.8);
